@@ -1,6 +1,8 @@
 <h1 align="center">Hi I'm Hector Nuñez 👋</h1>
 <h3 align="center">A passionate web developer from Asunción (Paraguay)</h3>
 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 * 👨‍💻 I have a page available at https://daninu04.wixsite.com/biodata/
 
 * 💬 Ask me about HTML, CSS, JavaScript, Node.js...
